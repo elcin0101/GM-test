@@ -1,0 +1,2 @@
+[tool.playwright]
+browsers = ["chromium"]
