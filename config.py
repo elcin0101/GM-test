@@ -16,6 +16,6 @@ CONFIG = {
     },
     'telegram_settings': {
         'enable_messages': True,
-        'dev_mode': False
+        'dev_mode': True
     }
 }
