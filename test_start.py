@@ -15,7 +15,7 @@ class NewsWebsiteTest:
         self.base_url = CONFIG['base_url']
         self.servers = CONFIG['servers']
         self.port = CONFIG['port']
-        self.dev_mode = True
+        self.dev_mode = False
         self.enable_telegram = CONFIG['telegram_settings']['enable_messages']
         self.categories = []
         self.tags = []
